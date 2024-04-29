@@ -1,0 +1,17 @@
+#gameCanvas {
+  display: block;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+#sepet {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+#sepet img {
+  /* İkinci sepet görüntüsünü gizlemek için */
+  display: none;
+}

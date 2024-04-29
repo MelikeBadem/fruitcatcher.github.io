@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fruit Catcher</title>
+    <link rel="stylesheet" href="sepet.css" />
+    <style>
+      canvas {
+        display: block;
+        margin: 0 auto;
+        border: 1px solid black;
+      }
+      #oyun {
+        position: center;
+        width: 800px; /* Canvas genişliği */
+        height: 600px; /* Canvas yüksekliği */
+      }
+      #sepet {
+        position: absolute; /* Oyun alanına göre pozisyonu ayarla */
+        bottom: 20px; /* Canvasın altından 20 piksel yukarıda */
+        left: 50%; /* Canvasın ortasında */
+        transform: translateX(-50%); /* Yatayda merkezlemek için */
+      }
+    </style>
+  </head>
+  <body>
+    <div id="oyun">
+      <canvas id="gameCanvas" width="800" height="600"></canvas>
+      <div id="sepet">
+        <img src="sepet1.png" alt="Sepet" />
+      </div>
+    </div>
+    <script src="game.js"></script>
+  </body>
+</html>
