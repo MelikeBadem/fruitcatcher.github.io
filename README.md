@@ -12,3 +12,5 @@ Oyunun mantığı, ekrandan üstten aşağı doğru düşen meyveleri bir sepet 
 Görselleri incelemek için <a href="https://github.com/MelikeBadem/fruitcatcher.github.io/issues/1">buraya tıklayınız</a>
 ## Oyunun Açıklama Videosu
 Videoyu izlemek için <a href="https://youtu.be/UPsw0MaMSx0?si=Wj7-T1MHL95iqmka">buraya tıklayınız.</a>
+## Yazar
+@MelikeBadem
