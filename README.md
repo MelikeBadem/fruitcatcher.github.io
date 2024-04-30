@@ -9,3 +9,4 @@ Oyunun mantığı, ekrandan üstten aşağı doğru düşen meyveleri bir sepet 
 
 *'R' tuşu ile oyun baştan başlatılabilir.
 ## Oyundan Görseller
+<a href=https://github.com/MelikeBadem/fruitcatcher.github.io/issues/>buraya tıklayınız</a>
