@@ -5,7 +5,7 @@ Oyunun mantığı, ekrandan üstten aşağı doğru düşen meyveleri bir sepet 
 ## Oyun Kontrolleri
 *Mouse ile tıklayarak oyun başlatılır.
 
-*Oyunda sağ-sol yukarı-aşağı yön tuşları kullanılarak sepet hareket ettirilebilir.
+*Oyunda sağ-sol ve yukarı-aşağı yön tuşları kullanılarak sepet hareket ettirilebilir.
 
 *'R' tuşu ile oyun baştan başlatılabilir.
 ## Oyundan Görseller
